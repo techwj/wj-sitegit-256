@@ -1,0 +1,136 @@
+# Validation Report - eating-out-takeout-guide
+
+Generated: 2026-06-05T17:29:20.447801
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: Advanced Beginner Eating Out Takeout Guide Techniques: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Mastering Future of Beginner Eating Out Takeout Guide in Easy Steps
+- ✓ Article word count OK: Why Beginner Eating Out Takeout Guide for Beginners is Trending in 2026
+- ✓ Article word count OK: Proven Strategies for Common Mistakes in Beginner Eating Out Takeout Guide
+- ✓ Article word count OK: Beginner Eating Out Takeout Guide: From Beginner to Expert
+- ✓ Article word count OK: Essential Beginner Eating Out Takeout Guide Techniques You Should Know
+- ✓ Article word count OK: Mastering Advanced Beginner Eating Out Takeout Guide Techniques in Easy Steps
+- ✓ Article word count OK: The Truth About Advanced Beginner Eating Out Takeout Guide Techniques
+- ✓ Article word count OK: The Future of Advanced Beginner Eating Out Takeout Guide Techniques: What to Expect
+- ✓ Article word count OK: Beginner Eating Out Takeout Guide: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Hidden Secrets of Beginner Eating Out Takeout Guide in 2026: Current Trends
+- ✓ Article word count OK: The Future of Beginner Eating Out Takeout Guide for Beginners: What to Expect
+- ✓ Article word count OK: Beginner Eating Out Takeout Guide for Beginners: From Beginner to Expert
+- ✓ Article word count OK: The Hidden Secrets of Beginner Eating Out Takeout Guide Tips and Best Practices
+- ✓ Article word count OK: Mastering Beginner Eating Out Takeout Guide: Everything You Need to Know in Easy Steps
+- ✓ Article word count OK: The Best Resources for Beginner Eating Out Takeout Guide for Beginners
+- ✓ Article word count OK: The Best Resources for Beginner Eating Out Takeout Guide
+- ✓ Article word count OK: The Future of The History of Beginner Eating Out Takeout Guide: What to Expect
+- ✓ Article word count OK: Exploring the World of The History of Advanced Eating Out Takeout Guide
+- ✓ Article word count OK: Everything You Need to Know About Advanced Eating Out Takeout Guide Tips and Best Practices
+- ✓ Article word count OK: The Future of Advanced Advanced Eating Out Takeout Guide Techniques: What to Expect
+- ✓ Article word count OK: What They Don't Tell You About Advanced Eating Out Takeout Guide
+- ✓ Article word count OK: Everything You Need to Know About Advanced Advanced Eating Out Takeout Guide Techniques
+- ✓ Article word count OK: Mastering Advanced Eating Out Takeout Guide for Beginners in Easy Steps
+- ✓ Article word count OK: The Best Resources for The History of Advanced Eating Out Takeout Guide
+- ✓ Article word count OK: Advanced Eating Out Takeout Guide for Beginners 101: Complete Beginner's Guide
+- ✓ Article word count OK: The History of Advanced Eating Out Takeout Guide: From Beginner to Expert
+- ✓ Article word count OK: Why You Need to Check Out Advanced Eating Out Takeout Guide
+- ✓ Article word count OK: Advanced Eating Out Takeout Guide: From Beginner to Expert
+- ✓ Article word count OK: Why You Need to Check Out Advanced Eating Out Takeout Guide
+- ✓ Article word count OK: Mastering Common Mistakes in Advanced Eating Out Takeout Guide in Easy Steps
+- ✓ Article word count OK: Everything You Need to Know About Advanced Advanced Eating Out Takeout Guide Techniques
+- ✓ Article word count OK: Understanding Advanced Eating Out Takeout Guide Tips and Best Practices: A Deep Dive
+- ✓ Article word count OK: Essential Advanced Advanced Eating Out Takeout Guide Techniques Techniques You Should Know
+- ✓ Article word count OK: Understanding Advanced Eating Out Takeout Guide for Beginners: A Deep Dive
+- ✓ Article word count OK: The Future of Advanced Eating Out Takeout Guide: What to Expect
+- ✓ Article word count OK: Eating Out Takeout Guide Tips: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Future of Eating Out Takeout Guide Tips: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Future of The History of Eating Out Takeout Guide Tips: What to Expect
+- ✓ Article word count OK: Eating Out Takeout Guide Tips: Everything You Need to Know: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Ultimate Guide to Eating Out Takeout Guide Tips for Beginners
+- ✓ Article word count OK: Essential Eating Out Takeout Guide Tips Techniques You Should Know
+- ✓ Article word count OK: The Best Resources for The History of Eating Out Takeout Guide Tips
+- ✓ Article word count OK: The Future of Advanced Eating Out Takeout Guide Tips Techniques: What to Expect
+- ✓ Article word count OK: The Hidden Secrets of Future of Eating Out Takeout Guide Tips
+- ✓ Article word count OK: The Future of Common Mistakes in Eating Out Takeout Guide Tips: What to Expect
+- ✓ Article word count OK: The Future of Common Mistakes in Eating Out Takeout Guide Tips: What to Expect
+- ✓ Article word count OK: Is Eating Out Takeout Guide Tips: Everything You Need to Know Actually Worth It?
+- ✓ Article word count OK: Common Mistakes in Eating Out Takeout Guide Tips: From Beginner to Expert
+- ✓ Article word count OK: Eating Out Takeout Guide Tips: Must-Read Insights and Reviews
+- ✓ Article word count OK: Advanced Eating Out Takeout Guide Tips Techniques 101: Complete Beginner's Guide
+- ✓ Article word count OK: The Future of Eating Out Takeout Guide Tips: What to Expect
+- ✓ Article word count OK: The Future of The History of Eating Out Takeout Guide Tips: What to Expect
+- ✓ Article word count OK: The Hidden Secrets of Eating Out Takeout Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Exploring the World of Eating Out Takeout Guide History
+- ✓ Article word count OK: The Best Resources for The History of Eating Out Takeout Guide History
+- ✓ Article word count OK: Eating Out Takeout Guide History in 2026: Current Trends: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Why Future of Eating Out Takeout Guide History is Trending in 2026
+- ✓ Article word count OK: Eating Out Takeout Guide History Tips and Best Practices: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Proven Strategies for Common Mistakes in Eating Out Takeout Guide History
+- ✓ Article word count OK: Eating Out Takeout Guide History: From Beginner to Expert
+- ✓ Article word count OK: Eating Out Takeout Guide History 101: Complete Beginner's Guide
+- ✓ Article word count OK: Unlock Your Eating Out Takeout Guide History Potential Now!
+- ✓ Article word count OK: The Hidden Secrets of Common Mistakes in Eating Out Takeout Guide History
+- ✓ Article word count OK: Proven Strategies for Common Mistakes in Eating Out Takeout Guide History
+- ✓ Article word count OK: Understanding Common Mistakes in Eating Out Takeout Guide History: A Deep Dive
+- ✓ Article word count OK: The Truth About Eating Out Takeout Guide History
+- ✓ Article word count OK: Proven Strategies for Eating Out Takeout Guide History
+- ✓ Article word count OK: Eating Out Takeout Guide History for Beginners 101: Complete Beginner's Guide
+- ✓ Article word count OK: Mastering Future of Eating Out Takeout Guide History in Easy Steps
+- ✓ Article word count OK: Understanding Eating Out Takeout Guide History: A Deep Dive
+- ✓ Article word count OK: Everything You Need to Know About Advanced Eating Out Takeout Guide History Techniques
+- ✓ Article word count OK: Everything You Need to Know About Trending Eating Out Takeout Guide Tips and Best Practices
+- ✓ Article word count OK: Why You Need to Check Out Trending Eating Out Takeout Guide
+- ✓ Article word count OK: Everything You Need to Know About Future of Trending Eating Out Takeout Guide
+- ✓ Article word count OK: Everything You Need to Know About Trending Eating Out Takeout Guide
+- ✓ Article word count OK: The History of Trending Eating Out Takeout Guide: From Beginner to Expert
+- ✓ Article word count OK: Amazing Secrets of Trending Eating Out Takeout Guide in 2026: Current Trends!
+- ✓ Article word count OK: Common Mistakes in Trending Eating Out Takeout Guide: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Ultimate Guide to Trending Eating Out Takeout Guide: Everything You Need to Know
+- ✓ Article word count OK: Everything You Need to Know About Common Mistakes in Trending Eating Out Takeout Guide
+- ✓ Article word count OK: Trending Eating Out Takeout Guide: Everything You Need to Know: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Best Resources for The History of Trending Eating Out Takeout Guide
+- ✓ Article word count OK: Proven Strategies for Trending Eating Out Takeout Guide in 2026: Current Trends
+- ✓ Article word count OK: The Future of Trending Eating Out Takeout Guide in 2026: Current Trends: What to Expect
+- ✓ Article word count OK: Everything You Need to Know About Trending Eating Out Takeout Guide in 2026: Current Trends
+- ✓ Article word count OK: Trending Eating Out Takeout Guide in 2026: Current Trends: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Best Resources for Trending Eating Out Takeout Guide in 2026: Current Trends
+- ✓ Article word count OK: Trending Eating Out Takeout Guide Tips and Best Practices: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Hidden Secrets of Common Mistakes in Trending Eating Out Takeout Guide
+- ✓ Article word count OK: Common Mistakes in Eating Out Takeout Guide Tutorials: Must-Read Insights and Reviews
+- ✓ Article word count OK: The Best Resources for Eating Out Takeout Guide Tutorials
+- ✓ Article word count OK: Everything You Need to Know About Eating Out Takeout Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The Future of Advanced Eating Out Takeout Guide Tutorials Techniques: What to Expect
+- ✓ Article word count OK: The Truth About Eating Out Takeout Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Eating Out Takeout Guide Tutorials for Beginners: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: The Hidden Secrets of Advanced Eating Out Takeout Guide Tutorials Techniques
+- ✓ Article word count OK: Understanding Eating Out Takeout Guide Tutorials Tips and Best Practices: A Deep Dive
+- ✓ Article word count OK: Exploring the World of Common Mistakes in Eating Out Takeout Guide Tutorials
+- ✓ Article word count OK: Essential Eating Out Takeout Guide Tutorials Techniques You Should Know
+- ✓ Article word count OK: The Lowdown on Eating Out Takeout Guide Tutorials
+- ✓ Article word count OK: Understanding Eating Out Takeout Guide Tutorials in 2026: Current Trends: A Deep Dive
+- ✓ Article word count OK: Essential Eating Out Takeout Guide Tutorials in 2026: Current Trends Techniques You Should Know
+- ✓ Article word count OK: Common Mistakes in Eating Out Takeout Guide Tutorials: Common Mistakes and How to Avoid Them
+- ✓ Article word count OK: Essential The History of Eating Out Takeout Guide Tutorials Techniques You Should Know
+- ✓ Article word count OK: Eating Out Takeout Guide Tutorials: Everything You Need to Know: Must-Read Insights and Reviews
+- ✓ Article word count OK: Exploring the World of Common Mistakes in Eating Out Takeout Guide Tutorials
+- ✓ Article word count OK: Eating Out Takeout Guide Tutorials: Everything You Need to Know: Must-Read Insights and Reviews
+- ✓ Ad configuration validated
